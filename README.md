@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Results Summary](https://kushagarwal11ag.github.io/Results-Summary/)
+- Live Site URL: [Results Summary](https://kushagarwal11ag.github.io/result-summary)
 
 ## My process
 
